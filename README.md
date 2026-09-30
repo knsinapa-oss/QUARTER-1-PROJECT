@@ -1,1 +1,45 @@
 # QUARTER-1-PROJECT
+I. Project Title
+
+Student Budget Tracker
+
+II. Problem Statement
+students often run out of money quickly because they dont keep track of how they spend it. This project will help students keep track of their budget and expenses.
+
+III. Project Objectives
+1. To record the student's budget and expenses.
+2. To calculate how much money is left.
+3. To help students avoid spending more than their budget.
+
+IV. Planned Features
+- Enter a budget
+- Add expenses
+- Calculate total expenses
+- Show remaining money
+- Show if the user is over budget
+
+V. Planned Inputs and Outputs
+
+Inputs:
+
+- Starting budget
+- Expense amount
+- Expense name
+
+Outputs:
+
+- Total expenses
+- Money remaining
+- Budget status
+
+VI. Logic Plan — Pseudocode
+
+1. Start
+2. Ask for the starting budget.
+3. Ask for an expense.
+4. Add the expense to the total.
+5. Subtract the total expenses from the budget.
+6. Show the money remaining.
+7. If the money is below 0, show "Over Budget."
+8. Otherwise, show "Within Budget."
+9. End
